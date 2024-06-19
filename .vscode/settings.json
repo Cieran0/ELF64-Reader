@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "elf64_header.h": "c",
+        "stdlib.h": "c",
+        "section_header.h": "c",
+        "unistd.h": "c",
+        "section.h": "c"
+    }
+}
